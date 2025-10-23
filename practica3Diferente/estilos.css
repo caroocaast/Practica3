@@ -1,0 +1,27 @@
+h1{
+    font-family: fantasy;
+    font-size: 370%;
+    color: rgb(21, 17, 243);
+
+}
+body{
+    background-color: rgb(193, 215, 245);
+    align-content: center;
+    text-align: center;
+}
+
+p{
+    color: rgb(73, 113, 243);
+    font-size: 25px;
+}
+
+
+#nombreoficial, #continente, #habitante, #capital {
+    color: blue;
+    font-size: 19px;
+}
+
+h3{
+   color: rgb(2, 23, 90);
+    font-size: 28px; 
+}
